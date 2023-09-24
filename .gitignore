@@ -1,0 +1,3 @@
+node_modules
+
+# **/.env # comentado para conseguirem testar, mas normalmente esse arquivo não vai para o git
